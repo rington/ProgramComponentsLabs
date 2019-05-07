@@ -1,0 +1,10 @@
+E:\University\Programm Components\SecondSemester\lab1\Program\obj\Debug\Program.csprojAssemblyReference.cache
+E:\University\Programm Components\SecondSemester\lab1\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+E:\University\Programm Components\SecondSemester\lab1\Program\bin\Debug\Program.exe.config
+E:\University\Programm Components\SecondSemester\lab1\Program\bin\Debug\Program.exe
+E:\University\Programm Components\SecondSemester\lab1\Program\bin\Debug\Program.pdb
+E:\University\Programm Components\SecondSemester\lab1\Program\bin\Debug\lab1.dll
+E:\University\Programm Components\SecondSemester\lab1\Program\bin\Debug\lab1.pdb
+E:\University\Programm Components\SecondSemester\lab1\Program\obj\Debug\Program.csproj.CopyComplete
+E:\University\Programm Components\SecondSemester\lab1\Program\obj\Debug\Program.exe
+E:\University\Programm Components\SecondSemester\lab1\Program\obj\Debug\Program.pdb
